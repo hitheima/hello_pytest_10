@@ -7,3 +7,7 @@ class TestLogin:
 	def test_login2(self):
 		print("test_login2")
 		assert 0
+		
+	def test_login3(self):
+		print("test_login3")
+		assert 1
