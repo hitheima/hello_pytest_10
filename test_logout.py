@@ -6,4 +6,4 @@ class TestLogout:
 
 	def test_logout2(self):
 		print("test_logout2")
-		assert 1
+		assert 0
